@@ -10,4 +10,4 @@
    </a>
 </p>
 
-<p align="center">me stare at screen for hourssss hahah</p>
+<p align="center">i use arch linux, kde and <strong>wobbly windows</strong></p>
