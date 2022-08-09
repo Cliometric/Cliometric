@@ -6,7 +6,7 @@
 
 <p align="center">
   <a>
-    <img src=https://skillicons.dev/icons?i=linux,vscode,electron,arduino,bots,raspberrypi>
+    <img src=https://skillicons.dev/icons?i=linux,raspberrypi,vscode,arduino>
    </a>
 </p>
 
