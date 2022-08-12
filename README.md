@@ -6,7 +6,7 @@
 
 <p align="center">
   <a>
-    <img src=https://skillicons.dev/icons?i=linux,vscode,ps,pr,ae>
+    <img src=https://roeworks.net/skillicons.png>
    </a>
 </p>
 
