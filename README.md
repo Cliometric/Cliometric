@@ -1,4 +1,4 @@
-<!--- Revision #15 - i copied this comment from thekaigonzalez --->
+<!--- Revision #3 - i copied this comment from thekaigonzalez --->
 
 <div align="center">
   <img src="https://roeworks.net/pengu.gif" style="width: 300px; height: auto;">
@@ -15,6 +15,8 @@
 <div align="center">
   <img src="https://roeworks.net/skillicons.svg">
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliometric&theme=dark">
