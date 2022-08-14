@@ -13,3 +13,7 @@
 <div align="center">
   <img src="https://roeworks.net/skillicons.svg">
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cliometric/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+ </div>
