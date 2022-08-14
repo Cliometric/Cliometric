@@ -15,5 +15,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cliometric/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliometric&theme=dark">
  </div>
