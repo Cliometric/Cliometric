@@ -1,17 +1,15 @@
-<h1 align="center">Three M. Cerny</h1>
+<div align="center">
+  <img src="https://roeworks.net/pengu.gif" style="width: 300px; height: auto;">
+</div>
 
-<p align="center">Hello. I'm Three Cerny, a <em><strong>professional</strong> dumbass</em></p>
+<br>
 
-<p align="center">fullstack developer</p>
-
-<p align="center">
-  <a>
-    <img src="https://roeworks.net/skillicons.png">
-   </a>
-</p>
+<p align="center"><em><strong>professional</strong> dumbass</em></p>
 
 <p align="center">
-  <a>
-    <img src="https://roeworks.net/vscodeisannoying.png">
-   </a>
+  <i align="center">wanna do a collab with me? the easiest way is on discord:</i> <span>three#5950</span>
 </p>
+
+<div align="center">
+  <img src="https://roeworks.net/skillicons.svg">
+</div>
