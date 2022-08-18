@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <i align="center">wanna do a collab with me? the easiest way is on discord:</i> <span>/span>
+  <i align="center">wanna do a collab with me? the easiest way is on discord:</i> <span>three#6417</span>
 </p>
 
 <div align="center">
