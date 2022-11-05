@@ -19,5 +19,5 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliometric&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=threecerny&theme=dark">
  </div>
