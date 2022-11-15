@@ -9,7 +9,7 @@
 <p align="center"><em><strong>professional</strong> dumbass</em></p>
 
 <div align="center">
-  <img src="https://roeworks.net/nvimlinux.svg">
+  <img src="https://skillicons.dev/icons?i=linux,neovim">
 </div>
 
 <br>
