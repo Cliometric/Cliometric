@@ -17,7 +17,3 @@
 <p align="center">
   <i align="center">wanna do a collab with me? the easiest way is on discord:</i> <span>three#0261</span>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=threecerny&theme=dark">
- </div>
