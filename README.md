@@ -1,11 +1,3 @@
-<!--- Revision #3 - i copied this comment from thekaigonzalez --->
-
-<div align="center">
-  <img src="https://roeworks.net/pengu.gif" style="width: 300px; height: auto;">
-</div>
-
-<br>
-
 <p align="center"><em><strong>professional</strong> dumbass</em></p>
 
 <div align="center">
