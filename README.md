@@ -7,5 +7,5 @@
 <br>
 
 <p align="center">
-  <i align="center">wanna do a collab with me? the easiest way is on discord:</i> <span>three#0261</span>
+  <i align="center">wanna do a collab with me? the easiest way is on discord:</i> <span>Cornsi#0261</span>
 </p>
